@@ -17,7 +17,7 @@ with open(os.path.join("sbyb", "sbyb", "__init__.py"), "r", encoding="utf-8") as
 setup(
     name="sbyb",
     version=version,
-    author="SBYB Team",
+    author="Salim Bin Yousuf",
     author_email="info@sbyb.ai",
     description="A comprehensive ML library that unifies the entire ML pipeline",
     long_description=long_description,
